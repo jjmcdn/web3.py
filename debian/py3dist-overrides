@@ -1,0 +1,8 @@
+eth_abi python3-eth-abi
+eth_account python3-eth-account
+eth_hash python3-eth-hash
+eth_typing python3-eth-typing
+eth_utils python3-eth-utils
+hexbytes python3-hexbytes
+ipfshttpclient python3-ipfshttpclient
+lru_dict python3-lru-dict
